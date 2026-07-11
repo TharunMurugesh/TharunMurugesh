@@ -6,7 +6,6 @@
 
 Bengaluru, India
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TharunMurugesh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharunmurugesh/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/TharunMurugesh)
 [![CTFtime](https://img.shields.io/badge/CTFtime-2B2B2B?style=flat-square)](https://ctftime.org/user/265721)
