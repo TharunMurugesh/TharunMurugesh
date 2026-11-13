@@ -7,8 +7,6 @@
 Bengaluru, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharunmurugesh/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/TharunMurugesh)
-[![CTFtime](https://img.shields.io/badge/CTFtime-2B2B2B?style=flat-square)](https://ctftime.org/user/265721)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-7751-2084)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tharunnacc@gmail.com)
 
