@@ -26,7 +26,7 @@ Computer Science undergraduate focused on backend engineering, full-stack develo
 
 **B.Tech, Computer Science and Engineering**
 Presidency University, Bengaluru
-2nd Year · Expected Graduation 2028
+3rd Year · Expected Graduation 2028
 
 <br/>
 
